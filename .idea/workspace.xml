@@ -23,13 +23,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9795c97f-0a3b-4fb3-adee-33d027948bc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/BinarySearch/TwoSumI_Input_Array_Is_Sorted_167.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/HappyNumber_202.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Longest_Substring_Without_Repeating_Charcters_3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Single_Number_136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Count_of_Smaller_Numbers_After_Self_315.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Insertion_Sort_List_147.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Merge_Intervals_56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Sort_List_148.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/hash/HappyNumber_202.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/hash/HappyNumber_202.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/hash/Longest_Substring_Without_Repeating_Charcters_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/hash/Longest_Substring_Without_Repeating_Charcters_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/hash/Single_Number_136.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/hash/Single_Number_136.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/hash/Two_Sum_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/hash/Two_Sum_1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,29 +74,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/code/LeetCode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/LeetCode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Merge_Intervals_56">
+  <component name="RunManager" selected="Application.Insertion_Sort_List_147">
     <configuration name="HappyNumber_202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hash.HappyNumber_202" />
       <module name="LeetCode" />
@@ -103,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Substring_Without_Repeating_Charcters_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.Longest_Substring_Without_Repeating_Charcters_3" />
+    <configuration name="Insertion_Sort_List_147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Insertion_Sort_List_147" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hash.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_Intervals_56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.Merge_Intervals_56" />
+    <configuration name="Longest_Substring_Without_Repeating_Charcters_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.Longest_Substring_Without_Repeating_Charcters_3" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Merge_Intervals_56" />
-        <item itemvalue="Application.Two_Sum_1" />
+        <item itemvalue="Application.Insertion_Sort_List_147" />
         <item itemvalue="Application.HappyNumber_202" />
-        <item itemvalue="Application.Single_Number_136" />
         <item itemvalue="Application.Longest_Substring_Without_Repeating_Charcters_3" />
+        <item itemvalue="Application.Single_Number_136" />
+        <item itemvalue="Application.Two_Sum_1" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +191,8 @@
       <workItem from="1699272147278" duration="128000" />
       <workItem from="1699442813947" duration="472000" />
       <workItem from="1699973000886" duration="762000" />
+      <workItem from="1700635279373" duration="7389000" />
+      <workItem from="1700656275413" duration="5812000" />
     </task>
     <servers />
   </component>
