@@ -23,18 +23,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9795c97f-0a3b-4fb3-adee-33d027948bc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Merge_Sorted_Array_88.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/BinarySearch/Pow_x_n_50.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/BinarySearch/TwoSumI_Input_Array_Is_Sorted_167.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/dp/Longest_Palindromic_Substring_5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/HappyNumber_202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Intersection_of_Two_Arrays_349.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Longest_Substring_Without_Repeating_Charcters_3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Single_Number_136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Valid_Anagram_242.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Count_of_Smaller_Numbers_After_Self_315.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Insertion_Sort_List_147.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Merge_Intervals_56.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Sort_List_148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/stack/Daily_Temperatures_739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/tree/Maximum_Depth_of_Binary_Tree_104.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/TwoSumI_Input_Array_Is_Sorted_167.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/TwoSumI_Input_Array_Is_Sorted_167.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/dp/Longest_Palindromic_Substring_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/dp/Longest_Palindromic_Substring_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/hash/Longest_Substring_Without_Repeating_Charcters_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/hash/Longest_Substring_Without_Repeating_Charcters_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/hash/Single_Number_136.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/hash/Single_Number_136.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/hash/Two_Sum_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/hash/Two_Sum_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/sort/Insertion_Sort_List_147.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/sort/Insertion_Sort_List_147.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,9 +105,9 @@
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Longest_Palindromic_Substring_5">
-    <configuration name="HappyNumber_202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.HappyNumber_202" />
+  <component name="RunManager" selected="Application.Merge_Sorted_Array_88">
+    <configuration name="Intersection_of_Two_Arrays_349" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.Intersection_of_Two_Arrays_349" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -108,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insertion_Sort_List_147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.Insertion_Sort_List_147" />
+    <configuration name="Maximum_Depth_of_Binary_Tree_104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.Maximum_Depth_of_Binary_Tree_104" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Palindromic_Substring_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.Longest_Palindromic_Substring_5" />
+    <configuration name="Merge_Sorted_Array_88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Merge_Sorted_Array_88" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumI_Input_Array_Is_Sorted_167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.TwoSumI_Input_Array_Is_Sorted_167" />
+    <configuration name="Valid_Anagram_242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.Valid_Anagram_242" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Longest_Palindromic_Substring_5" />
+        <item itemvalue="Application.Merge_Sorted_Array_88" />
+        <item itemvalue="Application.Intersection_of_Two_Arrays_349" />
+        <item itemvalue="Application.Valid_Anagram_242" />
+        <item itemvalue="Application.Maximum_Depth_of_Binary_Tree_104" />
         <item itemvalue="Application.Pow_x_n_50" />
-        <item itemvalue="Application.TwoSumI_Input_Array_Is_Sorted_167" />
-        <item itemvalue="Application.Insertion_Sort_List_147" />
-        <item itemvalue="Application.HappyNumber_202" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +203,9 @@
       <workItem from="1700635279373" duration="7389000" />
       <workItem from="1700656275413" duration="5812000" />
       <workItem from="1700720880930" duration="13262000" />
+      <workItem from="1700799019832" duration="18928000" />
+      <workItem from="1700819272871" duration="600000" />
+      <workItem from="1700890073415" duration="1908000" />
     </task>
     <servers />
   </component>
