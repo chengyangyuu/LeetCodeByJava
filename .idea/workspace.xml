@@ -24,6 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9795c97f-0a3b-4fb3-adee-33d027948bc2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Merge_Sorted_Array_88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Remove_Element_27.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/BinarySearch/Pow_x_n_50.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/BinarySearch/TwoSumI_Input_Array_Is_Sorted_167.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/dp/Longest_Palindromic_Substring_5.java" afterDir="false" />
@@ -39,13 +40,8 @@
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/stack/Daily_Temperatures_739.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/tree/Maximum_Depth_of_Binary_Tree_104.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeByJava" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeByJava" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/TwoSumI_Input_Array_Is_Sorted_167.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/TwoSumI_Input_Array_Is_Sorted_167.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/dp/Longest_Palindromic_Substring_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/dp/Longest_Palindromic_Substring_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/hash/Longest_Substring_Without_Repeating_Charcters_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/hash/Longest_Substring_Without_Repeating_Charcters_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/hash/Single_Number_136.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/hash/Single_Number_136.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/hash/Two_Sum_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/hash/Two_Sum_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/sort/Insertion_Sort_List_147.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/sort/Insertion_Sort_List_147.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +84,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/LeetCode&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/chengOj-backEnd&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -105,7 +101,7 @@
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Merge_Sorted_Array_88">
+  <component name="RunManager" selected="Application.Remove_Element_27">
     <configuration name="Intersection_of_Two_Arrays_349" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hash.Intersection_of_Two_Arrays_349" />
       <module name="LeetCode" />
@@ -145,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pow_x_n_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.Pow_x_n_50" />
+    <configuration name="Remove_Element_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Remove_Element_27" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Remove_Element_27" />
         <item itemvalue="Application.Merge_Sorted_Array_88" />
         <item itemvalue="Application.Intersection_of_Two_Arrays_349" />
         <item itemvalue="Application.Valid_Anagram_242" />
         <item itemvalue="Application.Maximum_Depth_of_Binary_Tree_104" />
-        <item itemvalue="Application.Pow_x_n_50" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +202,8 @@
       <workItem from="1700799019832" duration="18928000" />
       <workItem from="1700819272871" duration="600000" />
       <workItem from="1700890073415" duration="1908000" />
+      <workItem from="1700968783671" duration="3938000" />
+      <workItem from="1701254852826" duration="2458000" />
     </task>
     <servers />
   </component>
