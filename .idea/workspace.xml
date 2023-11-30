@@ -24,9 +24,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9795c97f-0a3b-4fb3-adee-33d027948bc2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Merge_Sorted_Array_88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Remove_Element_27.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/BinarySearch/Pow_x_n_50.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/BinarySearch/TwoSumI_Input_Array_Is_Sorted_167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/TwoPointers/Remove_Element_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/TwoPointers/Valid_Palindrome_125.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/dp/Longest_Palindromic_Substring_5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/HappyNumber_202.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Intersection_of_Two_Arrays_349.java" afterDir="false" />
@@ -40,7 +41,6 @@
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/stack/Daily_Temperatures_739.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/tree/Maximum_Depth_of_Binary_Tree_104.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeByJava" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeByJava" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +101,7 @@
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Remove_Element_27">
+  <component name="RunManager" selected="Application.Valid_Palindrome_125">
     <configuration name="Intersection_of_Two_Arrays_349" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hash.Intersection_of_Two_Arrays_349" />
       <module name="LeetCode" />
@@ -115,25 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Depth_of_Binary_Tree_104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.Maximum_Depth_of_Binary_Tree_104" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Merge_Sorted_Array_88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Merge_Sorted_Array_88" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="TwoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="Remove_Element_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Remove_Element_27" />
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.Remove_Element_27" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="TwoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,13 +154,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Valid_Palindrome_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.Valid_Palindrome_125" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TwoPointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Valid_Palindrome_125" />
         <item itemvalue="Application.Remove_Element_27" />
         <item itemvalue="Application.Merge_Sorted_Array_88" />
         <item itemvalue="Application.Intersection_of_Two_Arrays_349" />
         <item itemvalue="Application.Valid_Anagram_242" />
-        <item itemvalue="Application.Maximum_Depth_of_Binary_Tree_104" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +204,7 @@
       <workItem from="1700890073415" duration="1908000" />
       <workItem from="1700968783671" duration="3938000" />
       <workItem from="1701254852826" duration="2458000" />
+      <workItem from="1701332388728" duration="4091000" />
     </task>
     <servers />
   </component>
