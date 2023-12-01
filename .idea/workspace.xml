@@ -31,7 +31,9 @@
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/dp/Longest_Palindromic_Substring_5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/HappyNumber_202.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Intersection_of_Two_Arrays_349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Isomorphic_Strings_205.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Longest_Substring_Without_Repeating_Charcters_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Ransom_Note_383.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Single_Number_136.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Valid_Anagram_242.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Count_of_Smaller_Numbers_After_Self_315.java" afterDir="false" />
@@ -101,9 +103,9 @@
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Valid_Palindrome_125">
-    <configuration name="Intersection_of_Two_Arrays_349" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.Intersection_of_Two_Arrays_349" />
+  <component name="RunManager" selected="Application.Isomorphic_Strings_205">
+    <configuration name="Isomorphic_Strings_205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.Isomorphic_Strings_205" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -128,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Element_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointers.Remove_Element_27" />
+    <configuration name="Ransom_Note_383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.Ransom_Note_383" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointers.*" />
+          <option name="PATTERN" value="hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Valid_Anagram_242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.Valid_Anagram_242" />
+    <configuration name="Remove_Element_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.Remove_Element_27" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.*" />
+          <option name="PATTERN" value="TwoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Isomorphic_Strings_205" />
+        <item itemvalue="Application.Ransom_Note_383" />
         <item itemvalue="Application.Valid_Palindrome_125" />
         <item itemvalue="Application.Remove_Element_27" />
         <item itemvalue="Application.Merge_Sorted_Array_88" />
-        <item itemvalue="Application.Intersection_of_Two_Arrays_349" />
-        <item itemvalue="Application.Valid_Anagram_242" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +207,7 @@
       <workItem from="1700968783671" duration="3938000" />
       <workItem from="1701254852826" duration="2458000" />
       <workItem from="1701332388728" duration="4091000" />
+      <workItem from="1701402770368" duration="5309000" />
     </task>
     <servers />
   </component>
