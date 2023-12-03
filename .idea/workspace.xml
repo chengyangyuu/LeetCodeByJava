@@ -36,11 +36,14 @@
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Ransom_Note_383.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Single_Number_136.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Valid_Anagram_242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Word_Pattern_290.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Bubble_Sort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Count_of_Smaller_Numbers_After_Self_315.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Insertion_Sort_List_147.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Merge_Intervals_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Quick_Sort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Selection_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Shell_Sort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/sort/Sort_List_148.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/stack/Daily_Temperatures_739.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/tree/Maximum_Depth_of_Binary_Tree_104.java" afterDir="false" />
@@ -105,7 +108,7 @@
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bubble_Sort">
+  <component name="RunManager" selected="Application.Selection_Sort">
     <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.Bubble_Sort" />
       <module name="LeetCode" />
@@ -158,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pow_x_n_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.Pow_x_n_50" />
+    <configuration name="Selection_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Selection_Sort" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bubble_Sort" />
+        <item itemvalue="Application.Selection_Sort" />
         <item itemvalue="Application.Insertion_Sort_List_147" />
+        <item itemvalue="Application.Bubble_Sort" />
         <item itemvalue="Application.HappyNumber_202" />
         <item itemvalue="Application.Longest_Substring_Without_Repeating_Charcters_3" />
-        <item itemvalue="Application.Pow_x_n_50" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +214,8 @@
       <workItem from="1701332388728" duration="4091000" />
       <workItem from="1701402770368" duration="5309000" />
       <workItem from="1701495197204" duration="13551000" />
+      <workItem from="1701536135013" duration="6000" />
+      <workItem from="1701590834360" duration="5216000" />
     </task>
     <servers />
   </component>
