@@ -48,6 +48,7 @@
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/stack/Daily_Temperatures_739.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/tree/Maximum_Depth_of_Binary_Tree_104.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeByJava" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeByJava" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +109,7 @@
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Selection_Sort">
+  <component name="RunManager" selected="Application.Word_Pattern_290">
     <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.Bubble_Sort" />
       <module name="LeetCode" />
@@ -148,19 +149,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Substring_Without_Repeating_Charcters_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.Longest_Substring_Without_Repeating_Charcters_3" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Selection_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.Selection_Sort" />
       <module name="LeetCode" />
@@ -174,13 +162,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Word_Pattern_290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.Word_Pattern_290" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Word_Pattern_290" />
         <item itemvalue="Application.Selection_Sort" />
         <item itemvalue="Application.Insertion_Sort_List_147" />
         <item itemvalue="Application.Bubble_Sort" />
         <item itemvalue="Application.HappyNumber_202" />
-        <item itemvalue="Application.Longest_Substring_Without_Repeating_Charcters_3" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +216,8 @@
       <workItem from="1701402770368" duration="5309000" />
       <workItem from="1701495197204" duration="13551000" />
       <workItem from="1701536135013" duration="6000" />
-      <workItem from="1701590834360" duration="5216000" />
+      <workItem from="1701590834360" duration="6001000" />
+      <workItem from="1701618411986" duration="1137000" />
     </task>
     <servers />
   </component>
