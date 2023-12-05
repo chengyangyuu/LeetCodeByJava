@@ -26,12 +26,18 @@
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Merge_Sorted_Array_88.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/BinarySearch/Pow_x_n_50.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/BinarySearch/TwoSumI_Input_Array_Is_Sorted_167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/TwoPointers/Container_With_Most_Water_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/TwoPointers/Is_Subsequence_392.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/TwoPointers/Remove_Element_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/TwoPointers/Sum3_15.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/TwoPointers/Valid_Palindrome_125.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/dp/Longest_Palindromic_Substring_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Contains_Duplicate_II_219.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Group_Anagrams_49.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/HappyNumber_202.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Intersection_of_Two_Arrays_349.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Isomorphic_Strings_205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Longest_Consecutive_Sequence_128.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Longest_Substring_Without_Repeating_Charcters_3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Ransom_Note_383.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Single_Number_136.java" afterDir="false" />
@@ -48,8 +54,8 @@
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/stack/Daily_Temperatures_739.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/tree/Maximum_Depth_of_Binary_Tree_104.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeByJava" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeByJava" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeByJava/src/hash/Two_Sum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/hash/Word_Pattern_290.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/hash/Word_Pattern_290.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,13 +115,13 @@
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Word_Pattern_290">
-    <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.Bubble_Sort" />
+  <component name="RunManager" selected="Application.Sum3_15">
+    <configuration name="Container_With_Most_Water_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.Container_With_Most_Water_11" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="TwoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HappyNumber_202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.HappyNumber_202" />
+    <configuration name="Group_Anagrams_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.Group_Anagrams_49" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -136,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insertion_Sort_List_147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.Insertion_Sort_List_147" />
+    <configuration name="Is_Subsequence_392" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.Is_Subsequence_392" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="TwoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,25 +155,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selection_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.Selection_Sort" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Word_Pattern_290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.Word_Pattern_290" />
+    <configuration name="Longest_Consecutive_Sequence_128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.Longest_Consecutive_Sequence_128" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum3_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.Sum3_15" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TwoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Word_Pattern_290" />
-        <item itemvalue="Application.Selection_Sort" />
-        <item itemvalue="Application.Insertion_Sort_List_147" />
-        <item itemvalue="Application.Bubble_Sort" />
-        <item itemvalue="Application.HappyNumber_202" />
+        <item itemvalue="Application.Sum3_15" />
+        <item itemvalue="Application.Container_With_Most_Water_11" />
+        <item itemvalue="Application.Is_Subsequence_392" />
+        <item itemvalue="Application.Group_Anagrams_49" />
+        <item itemvalue="Application.Longest_Consecutive_Sequence_128" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +224,8 @@
       <workItem from="1701536135013" duration="6000" />
       <workItem from="1701590834360" duration="6001000" />
       <workItem from="1701618411986" duration="1137000" />
+      <workItem from="1701666485401" duration="9086000" />
+      <workItem from="1701741692890" duration="11584000" />
     </task>
     <servers />
   </component>
