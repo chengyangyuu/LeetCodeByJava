@@ -23,10 +23,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9795c97f-0a3b-4fb3-adee-33d027948bc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Best_Time_to_Buy_and_Sell_Stock_121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Best_Time_to_Buy_and_Sell_Stock_II_122.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Majority_Element_169.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Merge_Sorted_Array_88.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Remove_Duplicates_from_Sorted_Array_26.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Remove_Duplicates_from_Sorted_Array_II_80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Rotate_Array_189.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/BinarySearch/Pow_x_n_50.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/BinarySearch/TwoSumI_Input_Array_Is_Sorted_167.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/SlidingWindow/Longest_Substring_Without_Repeating_Charcters_3.java" afterDir="false" />
@@ -120,9 +123,9 @@
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Majority_Element_169">
-    <configuration name="Majority_Element_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Majority_Element_169" />
+  <component name="RunManager" selected="Application.Best_Time_to_Buy_and_Sell_Stock_121">
+    <configuration name="Best_Time_to_Buy_and_Sell_Stock_121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Best_Time_to_Buy_and_Sell_Stock_121" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -134,25 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_Size_Subarray_Sum_209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SlidingWindow.Minimum_Size_Subarray_Sum_209" />
+    <configuration name="Majority_Element_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Majority_Element_169" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SlidingWindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Minimum_Window_Substring_76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SlidingWindow.Minimum_Window_Substring_76" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SlidingWindow.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,13 +176,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Rotate_Array_189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Rotate_Array_189" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Majority_Element_169" />
+        <item itemvalue="Application.Best_Time_to_Buy_and_Sell_Stock_121" />
+        <item itemvalue="Application.Rotate_Array_189" />
         <item itemvalue="Application.Remove_Duplicates_from_Sorted_Array_II_80" />
         <item itemvalue="Application.Remove_Duplicates_from_Sorted_Array_26" />
-        <item itemvalue="Application.Minimum_Size_Subarray_Sum_209" />
-        <item itemvalue="Application.Minimum_Window_Substring_76" />
+        <item itemvalue="Application.Majority_Element_169" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +236,7 @@
       <workItem from="1701741692890" duration="11584000" />
       <workItem from="1701831992271" duration="25277000" />
       <workItem from="1701924242436" duration="9457000" />
+      <workItem from="1702011259909" duration="9789000" />
     </task>
     <servers />
   </component>
