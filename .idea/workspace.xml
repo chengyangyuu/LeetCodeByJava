@@ -25,6 +25,9 @@
     <list default="true" id="9795c97f-0a3b-4fb3-adee-33d027948bc2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Best_Time_to_Buy_and_Sell_Stock_121.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Best_Time_to_Buy_and_Sell_Stock_II_122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/H_Index_274.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Jump_Game_55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Jump_Game_II_45.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Majority_Element_169.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Merge_Sorted_Array_88.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCodeByJava/src/Array/Remove_Duplicates_from_Sorted_Array_26.java" afterDir="false" />
@@ -123,7 +126,7 @@
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Best_Time_to_Buy_and_Sell_Stock_121">
+  <component name="RunManager" selected="Application.H_Index_274">
     <configuration name="Best_Time_to_Buy_and_Sell_Stock_121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Best_Time_to_Buy_and_Sell_Stock_121" />
       <module name="LeetCode" />
@@ -137,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Majority_Element_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Majority_Element_169" />
+    <configuration name="Best_Time_to_Buy_and_Sell_Stock_II_122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Best_Time_to_Buy_and_Sell_Stock_II_122" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -150,8 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Duplicates_from_Sorted_Array_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Remove_Duplicates_from_Sorted_Array_26" />
+    <configuration name="H_Index_274" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.H_Index_274" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -163,8 +166,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Duplicates_from_Sorted_Array_II_80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Remove_Duplicates_from_Sorted_Array_II_80" />
+    <configuration name="Jump_Game_55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Jump_Game_55" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -176,8 +179,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotate_Array_189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Rotate_Array_189" />
+    <configuration name="Jump_Game_II_45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Jump_Game_II_45" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -191,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.H_Index_274" />
+        <item itemvalue="Application.Jump_Game_II_45" />
+        <item itemvalue="Application.Jump_Game_55" />
+        <item itemvalue="Application.Best_Time_to_Buy_and_Sell_Stock_II_122" />
         <item itemvalue="Application.Best_Time_to_Buy_and_Sell_Stock_121" />
-        <item itemvalue="Application.Rotate_Array_189" />
-        <item itemvalue="Application.Remove_Duplicates_from_Sorted_Array_II_80" />
-        <item itemvalue="Application.Remove_Duplicates_from_Sorted_Array_26" />
-        <item itemvalue="Application.Majority_Element_169" />
       </list>
     </recent_temporary>
   </component>
@@ -237,6 +240,7 @@
       <workItem from="1701831992271" duration="25277000" />
       <workItem from="1701924242436" duration="9457000" />
       <workItem from="1702011259909" duration="9789000" />
+      <workItem from="1702094750900" duration="8398000" />
     </task>
     <servers />
   </component>
